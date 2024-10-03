@@ -1,7 +1,7 @@
 #### CSE330
 
 
-#### <a href="https://github.com/FaisalAhmed21/CSE330/blob/main/FaisalAhmed_09_Assignment02.ipynb">Lab Assignment 02</a>
+#### <a href="https://github.com/FaisalAhmed21/CSE330-Numerical-Methods/blob/main/Assignment02.ipynb">Lab Assignment 02</a>
 
 #### <a href="https://github.com/FaisalAhmed21/CSE330/blob/main/FaisalAhmed_09_Assignment03.ipynb">Lab Assignment 03</a>
 
